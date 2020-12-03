@@ -1,1 +1,2 @@
-# mangoincomp
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
